@@ -1,10 +1,9 @@
-### Hi there, I'm Mike 👋
+### Hi there, I'm Mike, dad, husband and software engineer
 
-- 🔭  I’m currently working on my master's degree of Software Engineering.
+- 🔭  I’m currently going to my final semester of my [master's degree in software engineering](https://www.cs.ut.ee/en/studying/software-engineering-msc), no more classes, "just" writing my thesis on Adversarial Machine Learning.
 
-<!--
-**mikecamara/mikecamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* [Blog](https://softwareengineering.netlify.app/)
+* [LinkedIn](https://www.linkedin.com/in/mikecamara)
+* [HackerRank](https://www.hackerrank.com/mikecamara)
+* [Twitter](https://www.twitter.com/mikegomescamara)
 
-Here are some ideas to get you started:
-
--->
