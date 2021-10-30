@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Mike, dad, husband and software engineer.
+### Mike Camara 
 
-🔭  I’m currently going to my final semester of my [master's degree in software engineering](https://www.cs.ut.ee/en/studying/software-engineering-msc), no more classes, "just" writing my thesis on Adversarial Machine Learning.
+🔭  Studying a [master's degree in software engineering](https://www.cs.ut.ee/en/studying/software-engineering-msc)
 
 <hr>
 
